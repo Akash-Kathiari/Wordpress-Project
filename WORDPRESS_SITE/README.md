@@ -1,2 +1,2 @@
 # Wordpress-Project
-![A test image](Screenshot 2021-10-01 101717.png)
+![A test image](https://github.com/ak2378/Wordpress-Project/blob/main/WORDPRESS_SITE/Screenshot%202021-10-01%20101717.png)
